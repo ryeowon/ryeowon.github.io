@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: blog 52 # the main title
+title: 52-log # the main title
 
 tagline: software # it will display as the sub-title
 
