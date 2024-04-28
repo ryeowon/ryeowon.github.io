@@ -13,7 +13,7 @@ tags: [class variance] # TAG names should always be lowercase
 - **intra-class** variance: **class 내부의** 분산
 
 예를 들어 아래의 그림을 보자!!  
-<img src="/assets/img/class_variance.png">
+<img src="/assets/img/class_variance.png" alt="illustration of class variance">
 
 **a) inter-class variance가 크고, intra-class variance가 작은 경우**
 
