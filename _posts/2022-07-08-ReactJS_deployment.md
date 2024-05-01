@@ -1,7 +1,7 @@
 ---
 title: "ReactJS 80번 포트에 배포하기"
 date: 2022-07-08 00:00:00
-categories: [Web, ReactJS]
+categories: [Web, React]
 tags: [web, react] # TAG names should always be lowercase
 ---
 
